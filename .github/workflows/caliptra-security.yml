@@ -1,5 +1,5 @@
 name: Caliptra Security
-run-name: caliptra-ci-ampy3a
+run-name: caliptra-ci-ispb6l
 on:
   pull_request:
     branches: [master]
